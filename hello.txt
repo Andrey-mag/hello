@@ -3,3 +3,4 @@
 Другая строка
 Как так то?)
 Hello git
+Hello git rebase
